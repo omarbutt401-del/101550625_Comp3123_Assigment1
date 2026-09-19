@@ -1,0 +1,12 @@
+{
+  "name": "3123-lab2",
+  "version": "1.0.0",
+  "description": "COMP 3123 - Lab 2",
+  "main": "run-all.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node run-all.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
