@@ -1,0 +1,20 @@
+{
+    "name": "lab3",
+    "version": "1.0.0",
+    "description": "sample node.js with some events",
+    "main": "main.js",
+    "scripts": {
+        "start" : "nodemon ./main.js localhost 8088"
+    },
+    "keyword": [
+        "Node. js",
+        "web server",
+        "http",
+        "events"
+    ],
+    "author": "Omar Butt",
+    "license": "ISC",
+    "dependencies": {
+    "nodemon": "^2.0.12"
+}
+}
